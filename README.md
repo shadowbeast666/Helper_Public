@@ -31,6 +31,6 @@ Technology used :
 ## Screenshots
 
 ![App Screenshot 1](images/pic1.png)
-![App Screenshot 2](./images/pic2.PNG)
-![App Screenshot 3](./images/pic3.PNG)
+![App Screenshot 2](images/pic2.PNG)
+![App Screenshot 3](images/pic3.PNG)
 
